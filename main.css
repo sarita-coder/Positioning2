@@ -1,0 +1,48 @@
+/* Inserta tu CSS aqui */
+.grande {
+	height: 200px;
+	width: 200px;
+}
+
+.mediano {
+	height: 100px;
+	width: 100px;
+}
+
+.chico {
+	height: 50px;
+	width: 50px;
+}
+
+#grandeuno {
+	background: #ed462f;
+	position: static;
+}
+
+#medianouno{
+	background:#752e80; 
+	position: relative;
+	left: 50px;
+	top: 50px;
+}
+#chicouno {
+	background: #fff835;
+	position: absolute;
+}
+
+#grandedos {
+	background:#0048fb;
+	position: absolute;
+}
+#medianodos {
+	background:  #387804;
+	margin-top: 50px;
+	margin-left:50px;
+	position: static;
+}
+#chicodos {
+	background: black;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
